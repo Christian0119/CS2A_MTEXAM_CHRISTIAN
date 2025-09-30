@@ -1,0 +1,98 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wellcome to Ilocos Sur</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  
+  <header class="site-header">
+    <div class="container header-inner">
+      <h1 class="site-title">Welcome to Ilocos Sur</h1>
+      <nav class="nav">
+        <a href="index.html" class="nav-link">Home</a>
+        
+        <a href="contact.html" class="nav-link">Contact Us</a>
+      </nav>
+    </div>
+  </header>
+
+      <h2>Discover Ilocos Sur</h2>
+      <p>Explore scenic coastlines, rich history, and vibrant local crafts.</p>
+    </div>
+  </section>
+
+  <main class="container">
+    
+    <section class="feature">
+      <h3 class="section-title">Featured: Ilocos Sur</h3>
+      <div class="feature-grid">
+        <img src="/images/IlocosSur.jpeg" alt="Feature Photo" class="feature-photo" width="385" height="400">
+        <div class="feature-info">
+          <p>Welcome to Ilocos Sur! A land of history, culture, and breathtaking beauty from the cobblestone streets of Vigan to the stunning coastlines and authentic local traditions, Ilocos Sur invites you to discover its timeless charm.</p>
+        </div>
+      </div>
+
+      <h4 class="sub-title">Tourist Spots & Adventures</h4>
+
+      <article class="spot"></article></article>
+        <h5>1. Calle Crisologo</h5>
+        <img src="images/images.jpeg" alt="Calle Crisologo" width="385"
+        <p class="desc"></p>Calle Crisologo is a cobblestone street lined with ancestral houses that transports visitors back to Spanish-era Philippines. Enjoy a calesa ride and shop for handwoven goods along the way. The area is vibrant at dusk when lanterns and old lamps light the street.</p>
+        <p class="hashtags"></p>#Vigan #CalleCrisologo #Heritage #CalesaRide #SpanishEra</p>
+      </article>
+
+      <article class="spot">
+        <h5>2. Bantay Bell Tower</h5>
+        <img src="/images/images (11).jpeg" alt="BantayBellTower" width="385">
+          
+        <p class="desc">Bantay Bell Tower provides panoramic views of Vigan and the surrounding fields and coastline. Climb the tower for memorable photos and learn about the site's historical significance. Nearby are small shops selling local snacks and souvenirs.</p>
+        <p class="hashtags">#BantayBellTower #Viewpoint #History #Photography #IlocosSur</p>
+      </article>
+
+      <article class="spot">
+        <h5>3.Santiago Ilocos Sur</h5>
+        <img src="/images/images (12).jpeg" alt="Santiago Ilocos Sur" width="385">
+        <p class="desc">Santiago, Ilocos Sur is best known for Santiago Cove, often called the ‘Boracay of the North’ because of its fine white sand and clear waters. It’s a perfect place to relax, swim, and enjoy the scenic view of the sea. The peaceful atmosphere, combined with local hospitality and nearby resorts, makes Santiago a must-visit beach destination in Ilocos Sur.
+       </p>
+        <p class="hashtags">#SantiagoCove #IlocosSur #BoracayOfTheNorth #BeachVibes #WhiteSandParadise</p>
+      </article>
+    </section>
+
+    <section class="products">
+      <h3 class="section-title">Local Products</h3>
+          <p>Discover authentic Ilocos products — from longganisa to woven textiles and pottery.</p>
+        </div>
+      </div>
+
+      <div class="product-grid">
+        <div class="product-card">
+          <img src="/images/images (7).jpeg" alt="Longganisa" class="product-img" width="200" height="200">
+          <h6 class="product-name">Vigan Longganisa</h6>
+          <p class="product-desc">Garlicky, locally made longganisa cured in traditional fashion.</p>
+          <p class="product-price">₱120</p>
+          <div class="product-actions">
+            <button class="btn add-btn" data-name="Vigan Longganisa" data-price="120">Add to Cart</button>
+            <button class="btn remove-btn" data-name="Vigan Longganisa">Remove</button>
+          </div>
+        </div>
+
+        <div class="product-card">
+          <img src="/images/images (3).jpeg" alt="Burnay Pot" class="product-img" width="200" height="200">
+          <h6 class="product-name">Burnay Pot</h6>
+          <p class="product-desc">Earthenware pottery made using traditional techniques.</p>
+          <p class="product-price">₱350</p>
+          <div class="product-actions">
+            <button class="btn add-btn" data-name="Burnay Pot" data-price="350">Add to Cart</button>
+            <button class="btn remove-btn" data-name="Burnay Pot">Remove</button>
+          </div>
+        </div>
+
+        <div class="product-card">
+          <img src="/images/images (8).jpeg" alt="Inabel Cloth" class="product-img" width="200" height="200">
+          <h6 class="product-name">Inabel Cloth</h6>
+          <p class="product-desc">Handwoven textile from local weavers.</p>
+          <p class="product-price">₱450</p>
+          <div class="product-actions">
+            <button class="btn add-btn" data-name="Inabel Cloth" data-price="450">Add to Cart</butto
